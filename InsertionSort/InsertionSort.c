@@ -7,7 +7,7 @@ int main(void){
     int i,j,temp=0,loc=0,newItem;
     int A[]={48,31,13,7,32,65,20,29,11,10};
 
-    printf("Bubble Sort\n\n");
+    printf("Insertion Sort\n\n");
     printf("Start Sort!\n");
     printf("Array = ");
     PrintArray(A,10);
